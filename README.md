@@ -1,6 +1,7 @@
 # West-Nile_Team-ATHM
 
 Collaborators: Allison Regan, Mel Welcome, Hakob Avjyan, Thomas Bacas.
+
 Kaggle Data: https://www.kaggle.com/c/predict-west-nile-virus/data
 
 
