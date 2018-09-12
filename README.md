@@ -39,3 +39,18 @@ Audience: You are presenting to members of the CDC. Some members of the audience
 The length of your presentation should be about 20 minutes (a rough guideline: 2 minute intro, 10 minutes on model, 5 minutes on cost-benefit analysis, 3 minute recommendations/conclusion). Touch base with your local instructor... er, manager... for specific logistic requirements!
 
 Recorded steps for project below:
+
+1. Data Cleaning - Status: In-progress
+                    / Collaborator: tbd
+
+2. Exploratory Data Analysis - Status: In-progress
+                    / Collaborator: tbd
+
+3. Data Transformation and Feature Engineering - Status: In-progress
+                    / Collaborator: tbd
+
+4. Modeling and Predictions - Status: In-progress
+                    / Collaborator: tbd
+
+5. Graphing and Presnation - Status: In-progress
+                    / Collaborator: tbd
