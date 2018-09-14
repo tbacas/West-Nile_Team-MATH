@@ -1,4 +1,4 @@
-# West-Nile_Team-ATHM
+# West-Nile_Team-MATH
 
 Collaborators: Allison Regan, Mel Welcome, Hakob Avjyan, Thomas Bacas.
 
@@ -16,3 +16,4 @@ Due to the recent epidemic of West Nile Virus in the Windy City, we've had the D
 
 
 Recorded steps for project below:
+heloo world 
