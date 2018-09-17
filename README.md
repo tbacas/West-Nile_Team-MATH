@@ -1,4 +1,4 @@
-#  West-Nile Team-ATHM !['mosquito'](https://kaggle2.blob.core.windows.net/competitions/kaggle/4366/media/moggie2.png)
+#  West-Nile Team-MATH !['mosquito'](https://kaggle2.blob.core.windows.net/competitions/kaggle/4366/media/moggie2.png)
 
 Collaborators: Allison Regan, Mel Welcome, Hakob Avjyan, Thomas Bacas.
 
