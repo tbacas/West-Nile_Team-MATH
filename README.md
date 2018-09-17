@@ -1,8 +1,6 @@
-<<<<<<< HEAD
-# West-Nile_Team-MATH
-=======
-#  West-Nile Team-ATHM !['mosquito'](https://kaggle2.blob.core.windows.net/competitions/kaggle/4366/media/moggie2.png)
->>>>>>> 809694a9e75ce8901c7e29eee0fc201e6d9cb960
+
+#  West-Nile Team-MATH !['mosquito'](https://kaggle2.blob.core.windows.net/competitions/kaggle/4366/media/moggie2.png)
+
 
 Collaborators: Allison Regan, Mel Welcome, Hakob Avjyan, Thomas Bacas.
 
@@ -43,9 +41,6 @@ Audience: You are presenting to members of the CDC. Some members of the audience
 The length of your presentation should be about 20 minutes (a rough guideline: 2 minute intro, 10 minutes on model, 5 minutes on cost-benefit analysis, 3 minute recommendations/conclusion). Touch base with your local instructor... er, manager... for specific logistic requirements!
 
 Recorded steps for project below:
-<<<<<<< HEAD
-heloo world 
-=======
 
 1. Data Cleaning - Status: In-progress
                     / Collaborator: tbd
@@ -61,4 +56,4 @@ heloo world
 
 5. Graphing and Presnation - Status: In-progress
                     / Collaborator: tbd
->>>>>>> 809694a9e75ce8901c7e29eee0fc201e6d9cb960
+
